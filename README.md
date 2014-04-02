@@ -1,7 +1,7 @@
 Tau Game
 ========
 
-This is Tau: [http://taugame.com/](http://taugame.com/)
+This is Tau ([currently deployed version](https://github.com/jasharpe/websockettau) reimplemented using Websockets by [jasharpe](http://github.com/jasharpe)): [http://taugame.com/](http://taugame.com/)
 
 Tau is an online multiplayer card game. The game is pure web application – no plugins or applets are required.
 

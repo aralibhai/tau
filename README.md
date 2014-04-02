@@ -1,7 +1,7 @@
 Tau Game
 ========
 
-This is Tau ([currently deployed version](https://github.com/jasharpe/websockettau) reimplemented using Websockets by [jasharpe](http://github.com/jasharpe)): [http://taugame.com/](http://taugame.com/)
+This is Tau ([currently deployed version](https://github.com/jasharpe/websockettau) reimplemented using WebSockets by [jasharpe](http://github.com/jasharpe)): [http://taugame.com/](http://taugame.com/)
 
 Tau is an online multiplayer card game. The game is pure web application – no plugins or applets are required.
 
@@ -30,11 +30,11 @@ For example, if a Tau contains two cards of the same color, the third card must 
 
 Here is an example of a Tau where all four properties are all different:
 
-![](http://taugame.com/images/example-all-different.png)
+![](https://github.com/aralibhai/tau/raw/master/web/images/example-all-different.png)
 
 Here is an example of a Tau where three properties are different and one is common:
 
-![](http://taugame.com/images/example-one-common.png)
+![](https://github.com/aralibhai/tau/raw/master/web/images/example-one-common.png)
 
 While there are cards remaining in the deck, the dealer will always put 12 cards on the table, and if there is no Tau in those 12, the dealer will deal batches of three cards until there is a Tau. When the deck runs out, you keep finding Taus until there are none left on the table, and then the game is over.
 
